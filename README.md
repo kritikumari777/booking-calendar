@@ -18,11 +18,33 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-
- GitHub repository : https://github.com/kritikumari777/booking-calendar
+GitHub repository : https://github.com/kritikumari777/booking-calendar
 
 ## Deploy on Netlify
 
 Link : https://booking-calendar-web.netlify.app/
 ---
 
+
+## 🚀 Features
+- Weekly calendar navigation  
+- Automatic timezone detection  
+- Real-time slot conversion between user and specialist timezone  
+- Slot selection with booking limit  
+- Clean, responsive Tailwind UI  
+- Optimized for performance with React hooks and memoization
+
+---
+
+##  Tech Stack
+- **Next JS**
+- **TypeScript**
+- **Tailwind CSS**
+- **date-fns-tz**
+
+---
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/booking-calendar.git
+cd booking-calendar
