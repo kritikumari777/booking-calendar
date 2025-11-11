@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 # 🗓️ Booking Calendar — MyLeading Campus Internship Task
 
 This project is built with **Next.js (TypeScript)** and styled using **Tailwind CSS**.  
+
 It allows specialists in the **UK timezone** to define their available slots, while users from other regions see those slots converted into their **local timezone** using `date-fns-tz`.
 
 
@@ -18,15 +19,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+ GitHub repository : https://github.com/kritikumari777/booking-calendar
 
-## Deploy on Vercel
+## Deploy on Netlify
 
+Link : https://booking-calendar-web.netlify.app/
 ---
-
-✅ **Highlights of this optimized version:**
-- Concise but professional wording.  
-- Includes clear **setup & dependency commands**.  
-- Explains **timezone logic** and **file structure**.  
-- Perfect formatting for GitHub display.  
 
